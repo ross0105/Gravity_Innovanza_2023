@@ -9,7 +9,7 @@
 <ol>
  <li>use only camelcase ("camelCase") for variables and functions.</li>
  <li>Commit changes in git repository with meaningful messages.</li>
-  <li>Make a seprate branch for any chane</li>
+  <li>Make a seprate branch for any change or adding new functionality</li>
  </ol>
 <br/>
 
