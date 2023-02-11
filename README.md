@@ -1,7 +1,15 @@
 # Gravity_Innovanza_2023
 
 
-/*****************************************************    Rules FOR Developers     *************************************************/
+<h1>About</h1>
+<h4>This repository is made for our college hackathon Innovanza 3.0 2023 with a web project</h4>
 
-1)use only camelcase ("camelCase") for variables and functions.                                                                                                           
-2)Commit changes in git repository with meaningful messages.
+<br/>
+<h2>Rules FOR Developers</h2>
+<ol>
+ <li>use only camelcase ("camelCase") for variables and functions.</li>
+ <li>Commit changes in git repository with meaningful messages.</li>
+  <li>Make a seprate branch for any chane</li>
+ </ol>
+<br/>
+
