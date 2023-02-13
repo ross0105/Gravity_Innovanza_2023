@@ -2,7 +2,7 @@
 
 
 <h1>About</h1>
-<h4>This repository is made for our college hackathon Innovanza 3.0 2023 with a web project</h4>
+<h4>This repository is made for our college hackathon Innovanza 4.0 2023 with a web project</h4>
 
 <br/>
 <h2>Rules FOR Developers</h2>
